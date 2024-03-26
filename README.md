@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://tenor.com/ru/view/homer-brain-monkey-gif-11098413" width="600" height="600"/>
+  <img src="https://gifdb.com/images/high/homer-simpson-monkey-brain-g8s0lpt6ujd0wfgt.gif" width="600" height="600"/>
 </div>
